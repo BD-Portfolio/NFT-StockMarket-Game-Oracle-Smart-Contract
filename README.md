@@ -1,4 +1,4 @@
-# Mini Game
+# NFT StockMarket Game (Oracle based) 
 
 ## Description:
  
